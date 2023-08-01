@@ -14,10 +14,6 @@
   "contributes": {
     "commands": [
       {
-        "command": "console-time-inserter.helloWorld",
-        "title": "Hello World"
-      },
-      {
         "command": "console-time-inserter.insert",
         "title": "Insert console.time/timeEnd Around Selection"
       }
