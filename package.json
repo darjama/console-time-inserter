@@ -3,6 +3,7 @@
   "displayName": "console-time-inserter",
   "description": "Wraps selected block of code with console.time/console.timeEnd",
   "version": "0.0.1",
+  "repository": "https://github.com/darjama/console-time-inserter",
   "engines": {
     "vscode": "^1.80.0"
   },
